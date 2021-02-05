@@ -1,3 +1,3 @@
 # Exploratory Data Analysis Project 1
 ## Plot 1
-(plot1.png)
+![plot 1](plot1.png)
